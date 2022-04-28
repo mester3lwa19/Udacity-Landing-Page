@@ -1,2 +1,5 @@
-# Udacity-Landing-Page
-This is Udacity-Landing-Page
+﻿References : Github , stack overflow.
+
+Files are : index.html , styles.css , app.js.
+
+To open the app : Just open index.html.
